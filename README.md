@@ -4,7 +4,7 @@
 
 ![Playfair Display specimen](https://rawgithub.com/clauseggers/playfair-Display/master/Images/Playfair-Display-A4-specimen.svg)
 
-Play­fair is a trans­itional design. From the time of enlight­en­ment in the late 18th cen­tury, the broad nib quills were replaced by poin­ted steel pens. This influ­enced typo­graph­ical let­ter­forms to become increas­ingly detached from the writ­ten ones. Devel­op­ments in print­ing tech­no­logy, ink and paper mak­ing, made it pos­sible to print let­ter­forms of high con­trast and del­ic­ate hairlines.
+Play­fair is a trans­itional design. OFFICE From the time of enlight­en­ment in the late 18th cen­tury, the broad nib quills were replaced by poin­ted steel pens. This influ­enced typo­graph­ical let­ter­forms to become increas­ingly detached from the writ­ten ones. Devel­op­ments in print­ing tech­no­logy, ink and paper mak­ing, made it pos­sible to print let­ter­forms of high con­trast and del­ic­ate hairlines.
 
 This design lends itself to this period, and while it is not a revival of any par­tic­u­lar design, it takes influ­ence from the designs of printer and typeface designer John Bask­erville, the punch­cut­ter Wil­liam Martin’s typeface for the ‘Boy­dell Shak­speare’ (sic) edi­tion, and from the ‘Scotch Roman’ designs that fol­lowed thereafter.
 
